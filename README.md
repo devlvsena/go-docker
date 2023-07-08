@@ -1,7 +1,3 @@
-# Objetivo
-
-Criar uma imagem docker que executa um código em go escrevendo a seguinte frase "Full Cycle Rocks!!"
-
 ## Requisitos
 
 - [X] A imagem precisa conter menos que 2MB
